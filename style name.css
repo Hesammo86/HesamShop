@@ -1,0 +1,58 @@
+body 
+{
+  font-family:sans-serif; 
+  background: -webkit-linear-gradient(to right, #155799, #9b3912);  
+  background: linear-gradient(to right, #155799, #28073d); 
+  color:whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+
+button {
+    background-color: #030804;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+}
+
+input{
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 5px;
+    padding: 15px 18px;
+    box-sizing: border-box;
+  }
+
+  button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+   
+.email{
+    text-align: center;
+    color: gray;
+    font-size: 16px;
+    margin-bottom: 12px;
+    /* padding:16px; */
+    /* padding-left:98px; */
+    padding-right:700px;
+}
+
+.num{
+    margin-bottom: 12px;
+    /* padding:16px; */
+    /* padding-left:98px; */
+    padding-right:700px;
+}
+
+.name{
+    margin-bottom: 12px;
+    /* padding:16px; */
+    padding-left:200px;
+    padding-right:700px;
+}
